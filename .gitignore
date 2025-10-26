@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 提交指南相关（不需要上传到插件仓库）
+SUBMISSION_GUIDE.md
+QUICK_START.md
+plugins_json_entry.json
+
+# 测试文件
+test_*.py
+*_test.py
