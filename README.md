@@ -26,7 +26,7 @@
 
 1. 下载本仓库：
    ```bash
-   git clone https://github.com/SolenmeChiara/mofox-dice-tarot-plugin.git
+   git clone https://github.com/SolenmeChiara/dice-and-tarot.git
    ```
 
 2. 将整个插件文件夹复制到 MoFox-Bot 的插件目录：
@@ -173,7 +173,7 @@ MoFox Community
 
 ## 🐛 问题反馈
 
-如遇到问题或有建议，请在 [GitHub Issues](https://github.com/SolenmeChiara/mofox-dice-tarot-plugin/issues) 提交。
+如遇到问题或有建议，请在 [GitHub Issues](https://github.com/SolenmeChiara/dice-and-tarot/issues) 提交。
 
 ## 🙏 鸣谢
 
